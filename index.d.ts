@@ -1,9 +1,9 @@
 // Type definitions for react-native-floating-action
 
-declare module "react-native-floating-action" {
-  import { Component } from "react";
+declare module 'rnfa-rb42' {
+  import { Component } from 'react';
 
-  type positionType = "right" | "left" | "center";
+  type positionType = 'right' | 'left' | 'center';
 
   type shadowType = {
     shadowOpacity?: number;
