@@ -1,7 +1,7 @@
 {
-  "name": "react-native-floating-action",
-  "version": "1.20.0",
-  "description": "Simple (FAB) floating action component for react-native",
+  "name": "rnfa-rb42",
+  "version": "0.0.3",
+  "description": "",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -20,7 +20,7 @@
     "material-design",
     "float-action"
   ],
-  "author": "Gonzalo Santome",
+  "author": "Gonzalo Santome + Ramon Vermeulen  ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/santomegonzalo/react-native-floating-action/issues"
